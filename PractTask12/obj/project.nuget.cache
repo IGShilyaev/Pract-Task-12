@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnjlNglr0GM0sqJ/Aj8b8JiGXLEitOp1gA7SkLLFsRNX0mZtshjzQlWL5L5ggY72vhKApV0RiZYWoco40XjazQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\PractTask12\\PractTask12\\PractTask12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
